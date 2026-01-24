@@ -41,12 +41,11 @@ filters. Now I am creating dashboards in Power Bi and trying to make usage of ev
 <!-- RIGHT COLUMN: Roadmap -->
 <td valign="top" width="50%">
 
-<h3>🚀 Roadmap</h3>
+<h3>🚀 Roadmap on 2026 </h3>
 
-- [ ] Python for Data Analysis <img src="https://img.shields.io/badge/Status-Planned-blue"><br>
 - [ ] Tableau <img src="https://img.shields.io/badge/Status-Planned-blue"><br>
-- [ ] Statistics for Data Analysis <img src="https://img.shields.io/badge/Status-Planned-blue"><br>
-- [ ] Data Visualization Best Practices <img src="https://img.shields.io/badge/Status-Planned-blue"><br>
+- [ ] Python (Data Analysis) <img src="https://img.shields.io/badge/Status-Planned-blue"><br>
+
 
 </td>
 </tr>
