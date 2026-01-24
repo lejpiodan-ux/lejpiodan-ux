@@ -24,7 +24,7 @@ Now I am creating dashboards in Power BI and trying to make use of every program
 
 <b>Microsoft Excel</b><br>
 <img src="https://img.shields.io/badge/Excel-Intermediate-green">
-<img src="https://img.shields.io/badge/Power%20Query-Yes-brightgreen"><br><br>
+<img src="https://img.shields.io/badge/Power%20Query-Yes-green"><br><br>
 
 <b>SQL</b><br>
 <img src="https://img.shields.io/badge/SQL-Intermediate-blue">
