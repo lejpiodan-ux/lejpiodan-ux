@@ -16,12 +16,27 @@ despite similar names of formulas, becouse Dax required from me change the way o
 filters. Now I am creating dashboards in Power Bi and trying to make usage of every program in its optimal way
 
 
-
 ## 🛠️ Tools & Technologies
 
-![Excel](https://img.shields.io/badge/Excel-Advanced-green)
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow)
+- **Microsoft Excel**  
+  Intermediate  
+  - advanced formulas  
+  - Power Query  
+  - pivot tables  
+  - automation basics  
+
+- **SQL**  
+  Intermediate  
+  - joins  
+  - subqueries  
+  - CTEs  
+  - window functions  
+
+- **Power BI**  
+  Intermediate  
+  - data modeling  
+  - DAX  
+  - dashboards & visualizations  
 
 <!--
 **lejpiodan-ux/lejpiodan-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
