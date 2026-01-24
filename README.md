@@ -9,6 +9,8 @@ because it is a great way to "Make Excel life easier."
 In the middle of 2025, I realized that Excel was not sufficient for me, and I started looking around to discover more data-related programs.
 That's how I started my journey with data analysis. I started learning SQL, and in the first 3 months, I went from
 writing basic SELECT and GROUP clauses to more advanced queries with Subqueries, CTEs, and Window Functions.
+Some examples of my sql sklills [here](https://github.com/lejpiodan-ux/Sql_Code_Examples)
+ 
 
 The next program on my roadmap was Power BI. I started to get familiar with the interface and visualizations, and
 then it was easy for me until I discovered that I also needed to learn how to write DAX. It was tough in the beginning,
