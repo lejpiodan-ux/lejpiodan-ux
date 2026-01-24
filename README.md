@@ -15,6 +15,14 @@ then it was easy to me, before I discover that I also need to learn how to write
 despite similar names of formulas, becouse Dax required from me change the way of view on datas from only rows and columns to 
 filters. Now I am creating dashboards in Power Bi and trying to make usage of every program in its optimal way
 
+
+
+## 🛠️ Tools & Technologies
+
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow)
+
 <!--
 **lejpiodan-ux/lejpiodan-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
