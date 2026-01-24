@@ -1,20 +1,19 @@
 ## HELLO!
+# I am on GitHub since November 2025
 
-### I am on Github since November 2025 
-And I want to share with you with my passion which is data analysing. 
-Firstly I got interested by exploring Microsoft Excel, it was in the beggining of 2025. Different formulas, hundreds 
-rows of data, pivot tables, automatization, everything was so cool to me! Also started with Power Querry
-becouse is great way to "make excel life easier".
+And I want to share with you my passion, which is data analysis.
+Firstly, I got interested in exploring Microsoft Excel; it was at the beginning of 2025. Different formulas, hundreds
+of rows of data, Pivot Tables, automation, everything was so cool to me! I also started with Power Query
+because it is a great way to "Make Excel life easier."
 
-In the middle of 2025 I found myself that excel is not sufficient to me and i started looking around to meet more data-likewise programs.
-Thats how i started my journey with data analysis. I started learning sql and in first 3 months i overcome from 
-writing basic select, group clausulas to more advanced querries with subquerry, cte's and window functions.
+In the middle of 2025, I realized that Excel was not sufficient for me, and I started looking around to discover more data-related programs.
+That's how I started my journey with data analysis. I started learning SQL, and in the first 3 months, I went from
+writing basic SELECT and GROUP clauses to more advanced queries with Subqueries, CTEs, and Window Functions.
 
-Next program on my roadmap was Power Bi. I started to get familiar whit interface, and vizualizations, and
-then it was easy to me, before I discover that I also need to learn how to write DAX. It was tough in the beginings 
-despite similar names of formulas, becouse Dax required from me change the way of view on datas from only rows and columns to 
-filters. Now I am creating dashboards in Power Bi and trying to make usage of every program in its optimal way
-
+The next program on my roadmap was Power BI. I started to get familiar with the interface and visualizations, and
+then it was easy for me until I discovered that I also needed to learn how to write DAX. It was tough in the beginning,
+despite the similar names of formulas, because DAX required me to change the way I view data from only rows and columns to filters.
+Now I am creating dashboards in Power BI and trying to make use of every program in its optimal way.
 
 <table>
 <tr>
