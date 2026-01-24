@@ -16,49 +16,42 @@ despite similar names of formulas, becouse Dax required from me change the way o
 filters. Now I am creating dashboards in Power Bi and trying to make usage of every program in its optimal way
 
 
-## 🛠️ Tools & Technologies
 <table>
-  <tr>
-    <!-- LEFT COLUMN: Tools & Technologies -->
-    <td valign="top" width="50%">
+<tr>
+<!-- LEFT COLUMN: Tools -->
+<td valign="top" width="50%">
 
-### 🛠️ Tools & Technologies
+<h3>🛠️ Tools & Technologies</h3>
 
-**Microsoft Excel**  
-![Excel](https://img.shields.io/badge/Excel-Intermediate-green)
-![Power%20Query](https://img.shields.io/badge/Power%20Query-Yes-brightgreen)
+<b>Microsoft Excel</b><br>
+<img src="https://img.shields.io/badge/Excel-Intermediate-green">
+<img src="https://img.shields.io/badge/Power%20Query-Yes-brightgreen"><br><br>
 
-**SQL**  
-![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
-![CTE](https://img.shields.io/badge/CTE-Yes-informational)
-![Window%20Functions](https://img.shields.io/badge/Window%20Functions-Yes-informational)
+<b>SQL</b><br>
+<img src="https://img.shields.io/badge/SQL-Intermediate-blue">
+<img src="https://img.shields.io/badge/CTE-Yes-informational">
+<img src="https://img.shields.io/badge/Window%20Functions-Yes-informational"><br><br>
 
-**Power BI**  
-![Power%20BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow)
-![DAX](https://img.shields.io/badge/DAX-Intermediate-yellowgreen)
+<b>Power BI</b><br>
+<img src="https://img.shields.io/badge/Power%20BI-Intermediate-yellow">
+<img src="https://img.shields.io/badge/DAX-Intermediate-yellowgreen"><br>
 
-    </td>
+</td>
 
-    <!-- RIGHT COLUMN: Roadmap -->
-    <td valign="top" width="50%">
+<!-- RIGHT COLUMN: Roadmap -->
+<td valign="top" width="50%">
 
-### 🚀 Roadmap
+<h3>🚀 Roadmap</h3>
 
-- [ ] Python for Data Analysis  
-![Status](https://img.shields.io/badge/Status-Planned-blue)
+- [ ] Python for Data Analysis <img src="https://img.shields.io/badge/Status-Planned-blue"><br>
+- [ ] Tableau <img src="https://img.shields.io/badge/Status-Planned-blue"><br>
+- [ ] Statistics for Data Analysis <img src="https://img.shields.io/badge/Status-Planned-blue"><br>
+- [ ] Data Visualization Best Practices <img src="https://img.shields.io/badge/Status-Planned-blue"><br>
 
-- [ ] Tableau  
-![Status](https://img.shields.io/badge/Status-Planned-blue)
-
-- [ ] Statistics for Data Analysis  
-![Status](https://img.shields.io/badge/Status-Planned-blue)
-
-- [ ] Data Visualization Best Practices  
-![Status](https://img.shields.io/badge/Status-Planned-blue)
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
+
 
 <!--
 **lejpiodan-ux/lejpiodan-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
