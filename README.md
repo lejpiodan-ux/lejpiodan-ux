@@ -33,7 +33,7 @@ Now I am creating dashboards in Power BI and trying to make use of every program
 
 <b>Power BI</b><br>
 <img src="https://img.shields.io/badge/Power%20BI-Intermediate-yellow">
-<img src="https://img.shields.io/badge/DAX-Intermediate-yellowgreen"><br>
+<img src="https://img.shields.io/badge/DAX-Intermediate(basic)-yellowgreen"><br>
 
 </td>
 
