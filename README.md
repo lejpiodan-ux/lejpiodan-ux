@@ -43,8 +43,8 @@ filters. Now I am creating dashboards in Power Bi and trying to make usage of ev
 
 <h3>🚀 Roadmap on 2026 </h3>
 
-- [ ] Tableau <img src="https://img.shields.io/badge/Status-Planned-blue"><br>
-- [ ] Python (Data Analysis) <img src="https://img.shields.io/badge/Status-Planned-blue"><br>
+- [ ] Tableau <img src="https://img.shields.io/badge/Status-Planned-violet"><br>
+- [ ] Python (Data Analysis) <img src="https://img.shields.io/badge/Status-Planned-violet"><br>
 
 
 </td>
