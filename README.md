@@ -9,13 +9,14 @@ because it is a great way to "Make Excel life easier."
 In the middle of 2025, I realized that Excel was not sufficient for me, and I started looking around to discover more data-related programs.
 That's how I started my journey with data analysis. I started learning SQL, and in the first 3 months, I went from
 writing basic SELECT and GROUP clauses to more advanced queries with Subqueries, CTEs, and Window Functions.
-Some examples of my sql sklills [here](https://github.com/lejpiodan-ux/Sql_Code_Examples)
+Some examples of my sql sklills [click here](https://github.com/lejpiodan-ux/Sql_Code_Examples)
  
 
 The next program on my roadmap was Power BI. I started to get familiar with the interface and visualizations, and
 then it was easy for me until I discovered that I also needed to learn how to write DAX. It was tough in the beginning,
 despite the similar names of formulas, because DAX required me to change the way I view data from only rows and columns to filters.
-Now I am creating dashboards in Power BI and trying to make use of every program in its optimal way.
+Now I am creating dashboards in Power BI [click here](https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi)
+ and trying to make use of every program in its optimal way.
 
 <table>
 <tr>
