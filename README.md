@@ -18,25 +18,18 @@ filters. Now I am creating dashboards in Power Bi and trying to make usage of ev
 
 ## 🛠️ Tools & Technologies
 
-- **Microsoft Excel**  
-  Intermediate  
-  - advanced formulas  
-  - Power Query  
-  - pivot tables  
-  - automation basics  
+### Microsoft Excel
+![Excel](https://img.shields.io/badge/Excel-Intermediate-green)
+![Power%20Query](https://img.shields.io/badge/Power%20Query-Yes-brightgreen)
 
-- **SQL**  
-  Intermediate  
-  - joins  
-  - subqueries  
-  - CTEs  
-  - window functions  
+### SQL
+![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
+![CTE](https://img.shields.io/badge/CTE-Yes-informational)
+![Window%20Functions](https://img.shields.io/badge/Window%20Functions-Yes-informational)
 
-- **Power BI**  
-  Intermediate  
-  - data modeling  
-  - DAX  
-  - dashboards & visualizations  
+### Power BI
+![Power%20BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow)
+![DAX](https://img.shields.io/badge/DAX-Intermediate-yellowgreen)
 
 <!--
 **lejpiodan-ux/lejpiodan-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
