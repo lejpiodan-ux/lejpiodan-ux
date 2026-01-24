@@ -31,6 +31,14 @@ filters. Now I am creating dashboards in Power Bi and trying to make usage of ev
 ![Power%20BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow)
 ![DAX](https://img.shields.io/badge/DAX-Intermediate-yellowgreen)
 
+
+### 🚀 Roadmap 
+- [ ] Python for Data Analysis  
+  ![Planned](https://img.shields.io/badge/Status-Planned-blue)
+
+- [ ] Tableau  
+  ![Planned](https://img.shields.io/badge/Status-Planned-blue)
+
 <!--
 **lejpiodan-ux/lejpiodan-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
