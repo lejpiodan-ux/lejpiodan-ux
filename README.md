@@ -46,7 +46,7 @@ and trying to make use of every program in its optimal way.
 <h3>🚀 Roadmap on 2026 </h3>
 
 - [ ] Tableau <img src="https://img.shields.io/badge/Status-Planned-violet"><br>
-- [ ] Python (Data Analysis) <img src="https://img.shields.io/badge/Status-Planned-violet"><br>
+- [ ] Python (Data Analysis) <img src="https://img.shields.io/badge/Status-Started-blue"><br>
 
 
 </td>
