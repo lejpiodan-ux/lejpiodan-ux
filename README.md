@@ -1,9 +1,11 @@
 ## HELLO!
  I want to share with you my passion, which is data analysis.
-s [click here](https://github.com/lejpiodan-ux/Sql_Code_Examples)
- 
- Power BI [click here](https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi)
-
+ I publish my scripts with SQL showing my progression and thinking process.
+ [click here](https://github.com/lejpiodan-ux/Sql_Code_Examples)
+To see my Power Bi dashboard portfolio click below.
+ [click here](https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi)
+I also start writing python scripts 
+[click here](https://github.com/lejpiodan-ux/Python)
 
 <table>
 <tr>
