@@ -25,7 +25,8 @@ s [click here](https://github.com/lejpiodan-ux/Sql_Code_Examples)
 <img src="https://img.shields.io/badge/Power%20BI-Intermediate-yellow">
 <img src="https://img.shields.io/badge/DAX-Intermediate(basic)-yellowgreen"><br>
 
-- [ ] Python  <img src="https://img.shields.io/badge/Status-Pandas-blue"><br></td>
+<b>Python</b><br>
+<img src="https://img.shields.io/badge/Pandas-blue"><br></td>
 
 <!-- RIGHT COLUMN: Roadmap -->
 <td valign="top" width="50%">
