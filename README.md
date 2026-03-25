@@ -1,13 +1,13 @@
 ## HELLO!
  I want to share with you my passion, which is data analysis.
 # I publish my scripts with SQL showing my progression and thinking process.
-# T-SQL & POSTGRES -> [click here](https://github.com/lejpiodan-ux/Sql_Code_Examples)
+#### T-SQL & POSTGRES -> [click here](https://github.com/lejpiodan-ux/Sql_Code_Examples)
 
 # To see my Power Bi dashboard portfolio click below.
-# POWER BI & DASHBOARDS -> [click here](https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi)
+#### POWER BI & DASHBOARDS -> [click here](https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi)
 
 # I also start writing python scripts 
-# PYTHON -> [click here](https://github.com/lejpiodan-ux/Python)
+#### PYTHON -> [click here](https://github.com/lejpiodan-ux/Python)
 
 <table>
 <tr>
