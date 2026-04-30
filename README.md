@@ -9,6 +9,11 @@
 ## I also start writing python scripts 
 #### PYTHON -> [click here](https://github.com/lejpiodan-ux/Python)
 
+<p>
+  <img src="logo-pb.png" height="24" style="vertical-align: middle;" />
+  <span style="font-weight: bold; padding-left: 5px;">Power BI</span> -> <a href="LINK_DO_TWOJEGO_DASHBOARDU">click here</a>
+</p>
+
 <table>
 <tr>
 <!-- LEFT COLUMN: Tools -->
