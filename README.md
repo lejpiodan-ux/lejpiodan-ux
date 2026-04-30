@@ -4,7 +4,7 @@
 #### T-SQL & POSTGRES -> [click here](https://github.com/lejpiodan-ux/Sql_Code_Examples)
 
 ## To see my Power Bi dashboard portfolio click below.
-#### POWER BI & DASHBOARDS -> [click here](https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) -> [click here](https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi)
 
 ## I also start writing python scripts 
 #### PYTHON -> [click here](https://github.com/lejpiodan-ux/Python)
